@@ -1,0 +1,8 @@
+# Core runtime dependencies
+ultralytics>=8.1.0      # YOLOv8 object detection
+opencv-python>=4.8.0    # camera capture & image ops
+numpy>=1.24.0           # array math
+pyttsx3>=2.90           # offline text-to-speech
+
+# Development / testing
+pytest>=7.4.0
